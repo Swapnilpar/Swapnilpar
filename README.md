@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning bsc IT 
 - 📫 How to reach me ... swpnlprk@gmail.com
-- 
+-
 
 <!---
 Swapnilpar/Swapnilpar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
